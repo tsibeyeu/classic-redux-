@@ -1,7 +1,7 @@
 
-# Classic Redux Bank.
+#  Redux Bank.
 
-Classic Redux Bank is a simple React project that serves as a learning tool for understanding the basics of Redux. It provides functionalities such as depositing funds, withdrawing funds, requesting a loan, and paying off a loan. Additionally, it includes a currency converter feature for converting deposited amounts in various currencies.
+ Redux Bank is a simple React project that serves as a learning tool for understanding the basics of Redux and the modern RTK in the files i used "v1" suffix for old  classic redux . It provides functionalities such as depositing funds, withdrawing funds, requesting a loan, and paying off a loan. Additionally, it includes a currency converter feature for converting deposited amounts in various currencies.
 
 ## Features.
 
